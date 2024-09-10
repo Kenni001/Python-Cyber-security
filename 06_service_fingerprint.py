@@ -36,3 +36,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Usage sudo -E python3 05_ping_and_port_scan.py (IP Address) -p (List of ports)
